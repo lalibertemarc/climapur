@@ -1,0 +1,72 @@
+title = "ClimaPur"
+baseURL = "https://gohugo-theme-ananke.pages.dev"
+languageCode = "fr-CA"
+theme = 'gohugo-theme-ananke'
+resourceDir = "../resources"
+
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+pagination.pagerSize = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+[languages.fr]
+    title = "ClimaPur"
+    description = "Nettoyage professionnel d’unités murales de climatisation et de chauffage"
+    weight = 1
+    contentDir = "content/fr"
+    [[languages.fr.menu.main]]
+        name = "Bienvenue"
+        identifier = "menu.home"
+        url = "/"
+        weight = 1
+
+    [[languages.fr.menu.main]]
+        name = "Nos services"
+        identifier = "menu.services"
+        url = "/services"
+        weight = 2
+
+    [[languages.fr.menu.main]]
+        name = "À propos"
+        identifier = "menu.about"
+        url = "/about"
+        weight = 3
+
+    [[languages.fr.menu.main]]
+        name = "Contact"
+        identifier = "menu.contact"
+        url = "/contact"
+        weight = 4   
+
+[languages.en]
+    title = "ClimaPur"
+    description = "Professional cleaning of wall-mounted air conditioning and heating units"
+    weight = 2
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+    text_color = ""
+    author = ""
+    favicon = "images/favicon.ico"
+    site_logo = "images/logoClimaPur.png"
+    description = "Nettoyage professionnel d’unités murales de climatisation et de chauffage"
+    background_color_class = "bg-black"
+    recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"

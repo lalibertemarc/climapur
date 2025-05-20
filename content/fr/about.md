@@ -1,0 +1,19 @@
++++
+draft = false
+title = 'À propos'
+featured_image = '/images/1000001542.jpg'
++++
+
+# À propos de ClimaPur Solutions
+
+Fondée en 2025, ClimaPur Solutions est une entreprise locale basée dans la région Nord de Montréal. Nous sommes deux associés passionnés par le confort et la santé de nos clients. Notre mission? Offrir des services de nettoyage et d’entretien d’unités murales de climatisation et de chauffage de haute qualité, avec un service fiable et personnalisé.
+
+## Valeurs
+
+- Professionnalisme : Travail soigné et ponctuel.
+
+- Proximité : Service adapté aux besoins des résidents du Nord de Montréal et environs.
+
+- Satisfaction client : Votre confort est notre priorité
+- 
+{{< navbutton url="/services" text="Apprenez-en plus sur nos services!" class="btn-primary" >}}
