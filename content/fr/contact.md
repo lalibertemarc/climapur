@@ -12,7 +12,6 @@ Prêt à améliorer la qualité de votre air intérieur? Contactez-nous pour un 
 
 {{< form-contact action="https://formspree.io/infoclimapur@gmail.com" >}}
 
-Cell : 514-358-9878
-Email : infoclimapur@gmail.com
+<a href="tel:+15143589878">514-358-9878</a> <br> infoclimapur@gmail.com
 
 Zone desservie : Couronne nord de Montréal

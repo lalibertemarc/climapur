@@ -12,7 +12,6 @@ Ready to improve your indoor air quality? Reach out for a free quote or to sched
 
 {{< form-contact action="https://formspree.io/infoclimapur@gmail.com" >}}
 
-Phone: 514-358-9878  
-Email: infoclimapur@gmail.com  
+<a href="tel:+15143589878">514-358-9878</a> <br> infoclimapur@gmail.com
 
 Service area: Montreal North Shore (and surrounding areas)
