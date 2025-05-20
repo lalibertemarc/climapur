@@ -40,3 +40,4 @@ Nous sommes spécialisés dans le nettoyage et l’entretien d’unités murales
 >}}
 {{< /fleximages >}}
 
+{{< navbutton url="/en/contact" text="Obtenez un devis gratuit" >}}
