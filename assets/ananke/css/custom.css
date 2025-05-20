@@ -1,0 +1,11 @@
+.flex-images {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 1rem;
+}
+
+.flex-images img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}

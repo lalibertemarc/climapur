@@ -2,6 +2,8 @@
 draft = false
 title = 'À propos'
 featured_image = '/images/1000001542.jpg'
+omit_header_text = true
+read_more_copy= "Découvrez notre entreprise"
 +++
 
 # À propos de ClimaPur Solutions
@@ -10,10 +12,10 @@ Fondée en 2025, ClimaPur Solutions est une entreprise locale basée dans la ré
 
 ## Valeurs
 
-- Professionnalisme : Travail soigné et ponctuel.
+- **Professionnalisme** : Travail soigné et ponctuel.
 
-- Proximité : Service adapté aux besoins des résidents du Nord de Montréal et environs.
+- **Proximité** : Service adapté aux besoins des résidents du Nord de Montréal et environs.
 
-- Satisfaction client : Votre confort est notre priorité
-- 
-{{< navbutton url="/services" text="Apprenez-en plus sur nos services!" class="btn-primary" >}}
+- **Satisfaction** client : Votre confort est notre priorité
+
+{{< navbutton url="/en/services" text="Apprenez-en plus sur nos services!" class="btn-primary" >}}

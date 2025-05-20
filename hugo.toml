@@ -6,7 +6,7 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-pagination.pagerSize = 3
+pagination.pagerSize = 0
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -52,6 +52,29 @@ enableRobotsTXT = true
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
 
+    [[languages.en.menu.main]]
+        name = "Home"
+        identifier = "menu.home"
+        url = "/en"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "Our services"
+        identifier = "menu.services"
+        url = "/en/services"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "About"
+        identifier = "menu.about"
+        url = "/en/about"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Contact"
+        identifier = "menu.contact"
+        url = "/en/contact"
+        weight = 4   
 
 [sitemap]
 changefreq = "monthly"
@@ -66,7 +89,7 @@ filename = "sitemap.xml"
     description = "Nettoyage professionnel d’unités murales de climatisation et de chauffage"
     background_color_class = "bg-black"
     recent_posts_number = 3
-
+    custom_css = ["custom.css","special.css"]
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"

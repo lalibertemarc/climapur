@@ -11,5 +11,8 @@ featured_image = '/images/1000001542.jpg'
 
 Chez ClimaPur Solutions, nous offrons des services spécialisés de nettoyage et d’entretien pour vos unités murales. Profitez d’un air plus sain, d’une meilleure efficacité énergétique et d’un confort optimal.
 
+{{< navbutton url="/contact" text="Obtenez un devis gratuit" class="btn-primary" >}}
+{{< navbutton url="/services" text="Découvrez nos services" class="btn-primary" >}}
 
-Coordonnées rapides : 514-358-9878, infoclimapur@gmail.com
+Coordonnées rapides : <a href="tel:+15143589878">514-358-9878</a> <br> infoclimapur@gmail.com
+
