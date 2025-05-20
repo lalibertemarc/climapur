@@ -1,5 +1,5 @@
 title = "ClimaPur"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://climapur.netlify.app/"
 languageCode = "fr-CA"
 theme = 'gohugo-theme-ananke'
 resourceDir = "../resources"
@@ -14,7 +14,7 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [imaging]
   quality = 85
   resampleFilter = "CatmullRom"

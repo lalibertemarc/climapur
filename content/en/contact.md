@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'Contact'
-featured_image = '/images/cover/1000001542.jpg'
+featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy = "Get a free quote"
 +++
