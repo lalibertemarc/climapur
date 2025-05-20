@@ -14,6 +14,11 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
+[imaging]
+  quality = 85
+  resampleFilter = "CatmullRom"
+  anchor = "center"
 
 [languages]
 [languages.fr]
