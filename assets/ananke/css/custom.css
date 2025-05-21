@@ -9,3 +9,36 @@
     height: auto;
     display: block;
 }
+
+.faq-item {
+  margin-bottom: 1rem;
+}
+
+.faq-question {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 12px 15px;
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.faq-question:hover {
+  background: #e9ecef;
+}
+
+.faq-answer {
+  padding: 15px;
+  border-left: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+  border-radius: 0 0 4px 4px;
+  display: none;
+}
+
+.faq-answer.active {
+  display: block;
+}
