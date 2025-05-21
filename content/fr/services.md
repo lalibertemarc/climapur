@@ -25,14 +25,14 @@ Nous sommes spécialisés dans le nettoyage et l’entretien d’unités murales
 
 {{< fleximages >}}
 {{< image-modal 
-    src="/images/1000001539.png" 
+    src="/images/1000001539.jpg" 
     width="500px"
     title="Avant"
     alt="Unité de climatisation encrassée avant nettoyage"
     caption="État initial de l'unité de climatisation : poussière et saleté accumulées après une longue utilisation" 
 >}}
 {{< image-modal 
-    src="/images/1000001541.png"
+    src="/images/1000001541.jpg"
     width="500px"
     title="Après"
     alt="Unité de climatisation après nettoyage professionnel"

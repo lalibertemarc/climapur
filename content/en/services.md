@@ -22,14 +22,14 @@ We specialize in cleaning and maintaining wall-mounted air conditioning and heat
 
 {{< fleximages >}}
 {{< image-modal 
-    src="/images/1000001539.png" 
+    src="/images/1000001539.jpg" 
     width="500px"
     title="Before"
     alt="Dirty air conditioning unit before cleaning"
     caption="Initial state: Dust and grime buildup after prolonged use" 
 >}}
 {{< image-modal 
-    src="/images/1000001541.png"
+    src="/images/1000001541.jpg"
     width="500px"
     title="After"
     alt="Air conditioning unit after professional cleaning"
