@@ -1,8 +1,10 @@
 <div class="faq-item">
-  <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active')">
+  <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active'); this.classList.toggle('active')">
     {{ .Get "question" }}
   </button>
   <div class="faq-answer">
-    {{ .Inner | markdownify }}
+    <div class="faq-answer-content">
+      {{ .Inner | markdownify }}
+    </div>
   </div>
 </div>

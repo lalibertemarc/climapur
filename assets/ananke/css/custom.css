@@ -1,3 +1,12 @@
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --text-color: #333;
+  --dark-blue : #0b417c;
+  --light-blue: #1265a7;
+  --light-red : #ed3a22;
+}
+
 .flex-images {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
@@ -12,33 +21,83 @@
 
 .faq-item {
   margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .faq-question {
-  background: #f8f9fa;
-  border: 1px solid #dee2e6;
-  border-radius: 4px;
-  padding: 12px 15px;
+  background: #177ac5; /* Your blue */
+  color: white;
+  border: none;
+  padding: 16px 20px;
   width: 100%;
   text-align: left;
-  font-weight: bold;
+  font-weight: 600;
   cursor: pointer;
-  transition: background 0.3s ease;
+  transition: all 0.3s ease;
+  position: relative;
+  font-size: 1.1rem;
 }
 
 .faq-question:hover {
-  background: #e9ecef;
+  background: #1265a7; /* Slightly darker blue */
+}
+
+.faq-question:after {
+  content: '+';
+  position: absolute;
+  right: 20px;
+  font-size: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.faq-question.active:after {
+  content: '-';
+  transform: rotate(0deg);
+}
+
+.faq-question.active {
+  background: var(--dark-blue); /* Your red when active */
 }
 
 .faq-answer {
-  padding: 15px;
-  border-left: 1px solid #dee2e6;
-  border-right: 1px solid #dee2e6;
-  border-bottom: 1px solid #dee2e6;
-  border-radius: 0 0 4px 4px;
-  display: none;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  background: white;
 }
 
 .faq-answer.active {
-  display: block;
+  max-height: 500px; /* Adjust based on your longest answer */
+}
+
+.faq-answer-content {
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Optional: Add some color to links */
+.faq-answer-content a {
+  color: var(--light-blue);
+  text-decoration: underline;
+}
+
+.faq-answer-content a:hover {
+  color: #eb381e;
+}
+
+.nav-button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin: 0.5em 0;
+  border: 3px solid var(--dark-blue);
+  background-color: #f0f0f0;
+  color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+.nav-button:hover {
+  background-color: var(--light-blue)
 }
