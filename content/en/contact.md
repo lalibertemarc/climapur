@@ -10,7 +10,7 @@ read_more_copy = "Get a free quote"
 
 Ready to improve your indoor air quality? Reach out for a free quote or to schedule an appointment.
 
-{{< form-contact action="https://formspree.io/infoclimapur@gmail.com" >}}
+{{< form-contact action="https://formspree.io/f/myzwvvbo" >}}
 
 <a href="tel:+15143589878">514-358-9878</a> <br> infoclimapur@gmail.com
 
