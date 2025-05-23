@@ -87,7 +87,7 @@ enableRobotsTXT = true
         url = "/en/contact"
         weight = 4
 
-    [[languages.fr.menu.main]]
+    [[languages.en.menu.main]]
         name = "FAQ"
         identifier = "menu.faq"
         url = "/en/faq"

@@ -5,6 +5,18 @@
   --dark-blue : #0b417c;
   --light-blue: #1265a7;
   --light-red : #ed3a22;
+  --main-font: 'Cinzel', fallback-font, sans-serif;
+}
+
+header h1 {
+  -webkit-text-stroke: 2px black; /* 2px wide black stroke */
+  color: white; /* fill color */
+  /* Fallback for non-WebKit browsers */
+  text-shadow: none; /* Remove if you want to combine with Option 2 */
+}
+
+.artical {
+  font-family: var(--main-font);
 }
 
 .flex-images {
