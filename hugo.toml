@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [imaging]
   quality = 85
   resampleFilter = "CatmullRom"
-  anchor = "center"
+  anchor = "Center"
 
 [languages]
 [languages.fr]
@@ -50,6 +50,12 @@ enableRobotsTXT = true
         url = "/contact"
         weight = 4   
 
+    [[languages.fr.menu.main]]
+        name = "FAQ"
+        identifier = "menu.faq"
+        url = "/faq"
+        weight = 5
+
 [languages.en]
     title = "ClimaPur"
     description = "Professional cleaning of wall-mounted air conditioning and heating units"
@@ -79,7 +85,13 @@ enableRobotsTXT = true
         name = "Contact"
         identifier = "menu.contact"
         url = "/en/contact"
-        weight = 4   
+        weight = 4
+
+    [[languages.fr.menu.main]]
+        name = "FAQ"
+        identifier = "menu.faq"
+        url = "/en/faq"
+        weight = 5 
 
 [sitemap]
 changefreq = "monthly"

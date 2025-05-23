@@ -5,6 +5,7 @@ featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 +++
 
+# FAQ 
 {{< faq question="Why is regular cleaning of wall-mounted units important?" >}}
 Regular cleaning ensures **healthier air quality** by removing dust, mold, and allergens. It also **improves energy efficiency**, reducing your electricity bills, and helps your unit **run smoothly for longer**, preventing costly breakdowns.
 {{< /faq >}}
