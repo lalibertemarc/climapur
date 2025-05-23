@@ -12,7 +12,7 @@
 
 
 [[redirects]]
-from = "https://climapur.netlify.app//*"
-to = "https://climapur.ca/:splat"
+from = "https://climapur.netlify.app/*"
+to = "https://climapur.ca/"
 status = 301
 force = true
