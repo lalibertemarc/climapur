@@ -5,18 +5,28 @@
   --dark-blue : #0b417c;
   --light-blue: #1265a7;
   --light-red : #ed3a22;
-  --main-font: 'Cinzel', fallback-font, sans-serif;
+}
+
+
+.avenir {
+  font-family: 'Cinzel', serif !important;
+}
+
+main{
+  font-family: 'Quicksand', serif !important;
+}
+
+.site-logo {
+    height: auto; /* maintains aspect ratio */
+    width: auto; /* allows height to control size */
+    max-height: 200px; /* adjust this value as needed */
 }
 
 header h1 {
-  -webkit-text-stroke: 2px black; /* 2px wide black stroke */
-  color: white; /* fill color */
-  /* Fallback for non-WebKit browsers */
-  text-shadow: none; /* Remove if you want to combine with Option 2 */
-}
-
-.artical {
-  font-family: var(--main-font);
+  color: white;
+  text-shadow: 
+    0 0 4px rgba(0,0,0,0.7), /* Soft glow */
+    0 0 2px black; /* Subtle outline */
 }
 
 .flex-images {

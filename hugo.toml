@@ -108,3 +108,5 @@ filename = "sitemap.xml"
     recent_posts_number = 3
     custom_css = ["custom.css","special.css"]
     defaultKeywords = ["nettoyage", "climatisation", "montreal"]
+    phone = "1-514-358-9878"
+    email = "infoclimapur@gmail.com"
