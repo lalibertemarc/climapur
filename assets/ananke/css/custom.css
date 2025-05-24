@@ -29,6 +29,13 @@ header h1 {
     0 0 2px black; /* Subtle outline */
 }
 
+header h2 {
+  color: white;
+  text-shadow: 
+    0 0 4px rgba(0,0,0,0.7), /* Soft glow */
+    0 0 2px black; /* Subtle outline */
+}
+
 .flex-images {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
