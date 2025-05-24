@@ -5,11 +5,6 @@
 [context.production.environment]
     HUGO_VERSION = "0.147.4"
 
-[[headers]]
-  for = "/images/*"
-  [headers.values]
-    Cache-Control = "public, max-age=3600"
-
 [[redirects]]
   from = "https://climapur.netlify.app/*"
   to = "https://climapur.ca/"
