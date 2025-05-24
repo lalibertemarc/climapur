@@ -3,6 +3,7 @@ draft = false
 title = 'Faq'
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
+description = "Questions fréquentes sur le nettoyage des systèmes CVC : recommandations de fréquence (tous les 3 à 6 mois), économies d'énergie (jusqu'à 30 %) et bienfaits pour la santé. Au service de la Rive-Nord de Montréal."
 +++
 
 # FAQ 

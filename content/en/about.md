@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'About'
+title = 'About ClimaPur Solutions'
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy = "Learn about our company"
+description= "Learn about ClimaPur Solutions, your local Montreal North Shore HVAC cleaning specialists. Discover our mission, values, and commitment to your comfort since 2025."
 +++
 
 # About ClimaPur Solutions

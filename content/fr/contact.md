@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'Contact'
+title = "Contactez ClimaPur Solutions | Nettoyage CVC"
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy= "Obtenez un devis gratuit"
+description = "Obtenez une estimation gratuite! Appelez au 514-358-9878 ou écrivez à infoclimapur@gmail.com. Services professionnels de nettoyage CVC pour la Rive-Nord de Montréal."
 +++
 
 # Contactez ClimaPur Solutions

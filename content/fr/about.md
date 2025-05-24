@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'À propos'
+title = 'À propos de ClimaPur Solutions'
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy= "Découvrez notre entreprise"
+description= "Découvrez ClimaPur Solutions, spécialistes en nettoyage de systèmes de climatisation sur la Rive-Nord de Montréal. Notre mission, nos valeurs et notre engagement pour votre confort depuis 2025."
 +++
 
 # À propos de ClimaPur Solutions

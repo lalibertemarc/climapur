@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'Services'
+title = "Nos services de nettoyage et maintenance"
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy= "Découvrez nos services"
+description= "Services professionnels de nettoyage CVC sur la Rive-Nord de Montréal. Améliorez la qualité d'air, l'efficacité énergétique et prolongez la durée de vie de vos appareils. Techniciens certifiés."
 +++
 
 # Nos services de nettoyage et d’entretien

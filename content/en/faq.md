@@ -3,6 +3,7 @@ draft = false
 title = 'Faq'
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
+description = "Common questions about HVAC cleaning: frequency recommendations (every 3-6 months), energy savings (up to 30%), and health benefits. Serving Montreal North Shore."
 +++
 
 # FAQ 

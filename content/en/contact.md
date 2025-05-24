@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'Contact'
+title= "Contact ClimaPur Solutions | HVAC Cleaning Services"
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy = "Get a free quote"
+description= "Get your free quote today! Call 514-358-9878 or email infoclimapur@gmail.com. Professional HVAC cleaning services for Montreal North Shore residents."
 +++
 
 # Contact ClimaPur Solutions

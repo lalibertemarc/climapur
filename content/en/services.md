@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'Services'
+title = "Our Cleaning and Maintenance Services"
 featured_image = '/images/1000001542.jpg'
 omit_header_text = true
 read_more_copy = "Explore our services"
+description= "Professional HVAC cleaning services in Montreal North Shore. Improve air quality, energy efficiency & extend your unit's lifespan. Certified technicians serving residential clients."
 +++
 
 # Our Cleaning and Maintenance Services

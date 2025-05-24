@@ -2,7 +2,7 @@
 date = '2025-05-20T09:57:42-04:00'
 draft = false
 title = 'ClimaPur Solutions'
-description = 'Nettoyage professionnel d’unités murales de climatisation et de chauffage'
+description = 'Nettoyage professionnel d’unités murales de climatisation et de chauffage dans la Couronne nord de Montréal'
 featured_image = '/images/1000001542.jpg'
 +++
 
