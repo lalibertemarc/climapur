@@ -1,0 +1,14 @@
+<div class="contact-info absolute top-0 right-0 white bg-black-90 ph3 pv1 pb4">
+        <div class="flex items-center">
+          {{ with .Site.Params.phone }}
+          <a href="tel:{{ replaceRE "[^0-9+]" "" . }}" class="white no-underline hover-white mr3">
+            <i class="fas fa-phone mr1"></i>{{ . }}
+          </a>
+          {{ end }}
+          {{ with .Site.Params.email }}
+          <a href="mailto:{{ . }}" class="white no-underline hover-white">
+            <i class="fas fa-envelope mr1"></i>{{ . }}
+          </a>
+          {{ end }}
+        </div>
+      </div>

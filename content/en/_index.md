@@ -3,7 +3,7 @@ date = '2025-05-20T09:57:42-04:00'
 draft = false
 title = 'ClimaPur Solutions'
 description = 'Professional cleaning of wall-mounted air conditioning and heating units'
-featured_image = '/images/1000001542-home.jpg'
+featured_image = '/images/1000001542.jpg'
 +++
 
 # Breathe clean air and extend the life of your appliances in the Greater Montreal area!

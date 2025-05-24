@@ -5,20 +5,7 @@
     {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
     <div class="{{ $cover_dimming_class }}">
       {{ partials.Include "site-navigation.html" .}}
-      <div class="contact-info absolute top-0 right-0 white bg-black-90 ph3 pv1 pb4">
-        <div class="flex items-center">
-          {{ with .Site.Params.phone }}
-          <a href="tel:{{ replaceRE "[^0-9+]" "" . }}" class="white no-underline hover-white mr3">
-            <i class="fas fa-phone mr1"></i>{{ . }}
-          </a>
-          {{ end }}
-          {{ with .Site.Params.email }}
-          <a href="mailto:{{ . }}" class="white no-underline hover-white">
-            <i class="fas fa-envelope mr1"></i>{{ . }}
-          </a>
-          {{ end }}
-        </div>
-      </div>
+      {{ partial "contact-info.html" . }}
       <div class="tc-l pv4 pv2-l ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | compare.Default .Site.Title }}
@@ -35,20 +22,7 @@
   <header>
     <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
       {{ partials.Include "site-navigation.html" . }}
-      <div class="contact-info absolute top-0 right-0 white bg-black-80 ph3 pv2 pb2">
-        <div class="flex items-center">
-          {{ with .Site.Params.phone }}
-          <a href="tel:{{ replaceRE "[^0-9+]" "" . }}" class="white no-underline hover-white mr3">
-            <i class="fas fa-phone mr1"></i>{{ . }}
-          </a>
-          {{ end }}
-          {{ with .Site.Params.email }}
-          <a href="mailto:{{ . }}" class="white no-underline hover-white">
-            <i class="fas fa-envelope mr1"></i>{{ . }}
-          </a>
-          {{ end }}
-        </div>
-      </div>
+      {{ partial "contact-info.html" . }}
       <div class="tc-l pv3 ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
           {{ .Title | compare.Default .Site.Title }}
