@@ -2,6 +2,8 @@
 draft = false
 title = "Our Cleaning and Maintenance Services"
 featured_image = '/images/1000001542.jpg'
+featured_image_alt = "Professionally cleaned air conditioning unit"
+featured_image_caption = "Air conditioner after thorough treatment by our technicians"
 omit_header_text = true
 read_more_copy = "Explore our services"
 description= "Professional HVAC cleaning services in Montreal North Shore. Improve air quality, energy efficiency & extend your unit's lifespan. Certified technicians serving residential clients."
@@ -21,6 +23,8 @@ We specialize in cleaning and maintaining wall-mounted air conditioning and heat
 - Professional cleaning by our certified team.  
 - Result: A high-performing system and healthier air.  
 
+{{< navbutton url="/en/contact" text="Book Your Service Today" >}}
+
 {{< fleximages >}}
 {{< image-modal 
     src="/images/1000001539.jpg" 
@@ -36,6 +40,18 @@ We specialize in cleaning and maintaining wall-mounted air conditioning and heat
     alt="Air conditioning unit after professional cleaning"
     caption="Final result: Unit fully cleaned and restored to optimal condition" 
 >}}
+{{< image-modal 
+    src="/images/PXL_20250524_192106005.jpg" 
+    width="500px"
+    title="Before"
+    alt="Close-up view of a dirty air conditioning unit before cleaning"
+    caption="AC unit condition before cleaning: dust and dirt buildup after intensive use." 
+>}}
+{{< image-modal 
+    src="/images/PXL_20250524_200413397.jpg"
+    width="500px"
+    title="After"
+    alt="Close-up view of an air conditioning unit after professional cleaning"
+    caption="After our service: a perfectly cleaned and restored AC unit for optimal performance." 
+>}}
 {{< /fleximages >}}
-
-{{< navbutton url="/en/contact" text="Book Your Service Today" >}}

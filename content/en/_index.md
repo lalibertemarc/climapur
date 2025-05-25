@@ -4,6 +4,8 @@ draft = false
 title = 'ClimaPur Solutions'
 description = 'Professional cleaning of wall-mounted air conditioning and heating units Montreal North Shore'
 featured_image = '/images/1000001542.jpg'
+featured_image_alt = "Professionally cleaned air conditioning unit"
+featured_image_caption = "Air conditioner after thorough treatment by our technicians"
 +++
 
 # Breathe clean air and extend the life of your appliances in the Greater Montreal area!

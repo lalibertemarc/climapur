@@ -2,6 +2,8 @@
 draft = false
 title = 'Faq'
 featured_image = '/images/1000001542.jpg'
+featured_image_alt= "Unité climatisée professionnellement nettoyé"
+featured_image_caption= "Climatiseur après traitement approfondi par nos techniciens"
 omit_header_text = true
 description = "Questions fréquentes sur le nettoyage des systèmes CVC : recommandations de fréquence (tous les 3 à 6 mois), économies d'énergie (jusqu'à 30 %) et bienfaits pour la santé. Au service de la Rive-Nord de Montréal."
 +++
@@ -37,3 +39,9 @@ Absolument ! Les unités sales **recirculent poussières, pollens et moisissures
 {{< faq question="Dois-je préparer quelque chose avant votre visite ?" >}}
 Assurez simplement **un accès dégagé à l'unité** (libérez les meubles ou obstacles si besoin). Notre équipe apporte tout le matériel nécessaire - aucune préparation requise !
 {{< /faq >}}
+
+{{< image-modal 
+    src="/images/PXL_20250524_220927485.jpg"
+    alt="Unité de climatisation très propre"
+    caption="Une climatisation parfaitement purifiée grâce à notre intervention" 
+>}}

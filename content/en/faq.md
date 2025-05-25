@@ -2,6 +2,8 @@
 draft = false
 title = 'Faq'
 featured_image = '/images/1000001542.jpg'
+featured_image_alt = "Professionally cleaned air conditioning unit"
+featured_image_caption = "Air conditioner after thorough treatment by our technicians"
 omit_header_text = true
 description = "Common questions about HVAC cleaning: frequency recommendations (every 3-6 months), energy savings (up to 30%), and health benefits. Serving Montreal North Shore."
 +++
@@ -37,3 +39,9 @@ Absolutely! Dirty units **recirculate dust, pollen, and mold**, worsening allerg
 {{< faq question="Do I need to prepare anything before your visit?" >}}
 Just ensure **clear access to the unit** (move furniture or obstacles if needed). Our team brings all necessary equipment - no preparation required!
 {{< /faq >}}
+
+{{< image-modal 
+    src="/images/PXL_20250524_220927485.jpg"
+    alt="Very clean air conditioning unit"
+    caption="A perfectly purified air conditioning unit thanks to our service" 
+>}}
