@@ -5,7 +5,7 @@ title = 'ClimaPur Solutions'
 description = 'Nettoyage professionnel d’unités murales de climatisation et de chauffage dans la Couronne nord de Montréal'
 featured_image = '/images/1000001542.jpg'
 featured_image_alt= "Unité climatisée professionnellement nettoyé"
-featured_image_caption= "This is a caption that will appear below the image"
+featured_image_caption= "Climatiseur après traitement approfondi par nos techniciens""
 +++
 
 # Respirez un air pur et prolongez la vie de vos appareils dans la grande région de Montréal!
